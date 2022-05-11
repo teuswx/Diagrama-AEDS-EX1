@@ -1,1 +1,3 @@
-# Diagrama-AEDS-EX1
+# Diagrama
+Faça um diagrama para representar uma inserção, remoção e pesquisa em uma
+lista linear.
